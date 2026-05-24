@@ -16,26 +16,22 @@
 
 ---
 
-
 # 🎮 About Me
 
-```javascript
-const ShadowGamerz = {
-  name: "Shadow Gamerz",
-  role: "Gamer | Editor | Developer",
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6F00&center=true&vCenter=true&width=500&lines=Gamer+%F0%9F%8E%AE;Editor+%F0%9F%8E%AC;Developer+%F0%9F%92%BB" />
+</p>
 
-  hobbies: ["Gaming 🎮", "Editing 🎬", "Coding 💻"],
-
-  learning: [
-    "Full Stack Development",
-    "Game Modding"
-  ],
-
-  motto: "Play. Edit. Code. Repeat. 🔁"
-};
-```
+<ul>
+  <li>🎮 Gamer</li>
+  <li>🎬 Video Editor</li>
+  <li>💻 Developer</li>
+  <li>🚀 Learning Full Stack Development</li>
+</ul>
 
 ---
+
+
 
 
 # 🌐 Connect With Me
