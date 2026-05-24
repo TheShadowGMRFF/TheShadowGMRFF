@@ -25,3 +25,7 @@ const ShadowGamerz = {
   funFact: "I can edit videos faster than I make instant noodles! 🍜",
   quote: "Play. Edit. Code. Repeat. 🔁"
 };
+
+
+🌐 Connect With Me
+<p align="center"> <a href="https://youtube.com/@TheShadowGamerFF" target="_blank"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /> </a> <a href="https://instagram.com/Itx_Honey_Editor" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /> </a> <a href="https://t.me/ShadowGMRFF" target="_blank"> <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /> </a> <a href="https://t.me/ShadowGamerzOfficial" target="_blank"> <img src="https://img.shields.io/badge/Telegram_Channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="TG Channel" /> </a> <a href="https://t.me/ShadowGamerzFF" target="_blank"> <img src="https://img.shields.io/badge/Telegram_Group-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="TG Group" /> </a> </p>
