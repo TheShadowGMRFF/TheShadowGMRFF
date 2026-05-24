@@ -16,31 +16,27 @@
 
 ---
 
+
 # 🎮 About Me
 
-```js
-class ShadowGamerz {
-  constructor() {
-    this.name = "Shadow Gamerz";
-    this.role = "Gamer | Editor | Developer";
-    this.hobbies = [
-      "Gaming 🎮",
-      "Video Editing 🎬",
-      "Coding 💻"
-    ];
-    this.currentlyLearning = [
-      "Full Stack Development",
-      "Game Modding"
-    ];
-    this.funFact =
-      "I can edit videos faster than instant noodles cook 🍜";
+```javascript
+const ShadowGamerz = {
+  name: "Shadow Gamerz",
+  role: "Gamer | Editor | Developer",
 
-    this.motto = "Play. Edit. Code. Repeat. 🔁";
-  }
-}
+  hobbies: ["Gaming 🎮", "Editing 🎬", "Coding 💻"],
 
-const me = new ShadowGamerz();
+  learning: [
+    "Full Stack Development",
+    "Game Modding"
+  ],
+
+  motto: "Play. Edit. Code. Repeat. 🔁"
+};
 ```
+
+---
+
 
 # 🌐 Connect With Me
 
